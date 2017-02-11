@@ -1,0 +1,5 @@
+{
+  "port": 3000,
+  "apiEndpoint": "http://localhost:3001",
+  "indexHtmlPath": "public/public"
+}
